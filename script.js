@@ -1,7 +1,7 @@
 
 window.onload = () => {
     const button = document.querySelector('button[data-action="change"]');
-    button.innerText = 'X';
+    button.innerText = 'ICI';
 
     let places = staticLoadPlaces();
     renderPlaces(places);
@@ -28,16 +28,16 @@ var models = [
         rotation: '0 180 0',
     },
     {
-        url: './assets/articuno/scene.gltf',
+        url: './assets/steamboat_willie/scene.gltf',
         scale: '0.2 0.2 0.2',
         rotation: '0 180 0',
-        info: 'Articuno, Lv. 80, HP 100/100',
+        info: 'steamboat, Lv. 80, HP 100/100',
     },
     {
-        url: './assets/dragonite/scene.gltf',
+        url: './assets/steampunk_android_boy/scene.gltf',
         scale: '0.08 0.08 0.08',
         rotation: '0 180 0',
-        info: 'Dragonite, Lv. 99, HP 150/150',
+        info: 'steampunk, Lv. 99, HP 150/150',
     },
 ];
 
