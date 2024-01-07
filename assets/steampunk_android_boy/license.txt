@@ -1,0 +1,11 @@
+Model Information:
+* title:	Steampunk Android Boy
+* source:	https://sketchfab.com/3d-models/steampunk-android-boy-f0404136e805401197075be932023ad8
+* author:	yanix (https://sketchfab.com/yanix)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Steampunk Android Boy" (https://sketchfab.com/3d-models/steampunk-android-boy-f0404136e805401197075be932023ad8) by yanix (https://sketchfab.com/yanix) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
